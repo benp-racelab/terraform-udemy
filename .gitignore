@@ -1,0 +1,5 @@
+.terraform
+.DS_BLOCKS
+private-key
+.terraform.lock.hcl
+terraform.tfstate.backup
